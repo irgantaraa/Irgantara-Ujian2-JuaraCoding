@@ -27,10 +27,10 @@ Unit test untuk kelas `ATM` diimplementasikan dalam kelas `ATMTest` menggunakan 
 ## Instalasi
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/irgantaraa/Irgantara-Ujian2-JuaraCoding.git
 2. Masuk ke direktori proyek:
    ```bash
-   cd repo-name
+   cd Irgantara-Ujian2-JuaraCoding
 3. Bangun proyek menggunakan Maven:
    ```bash
    mvn clean install
