@@ -34,3 +34,8 @@ Unit test untuk kelas `ATM` diimplementasikan dalam kelas `ATMTest` menggunakan 
 3. Bangun proyek menggunakan Maven:
    ```bash
    mvn clean install
+### Menjalankan Unit Testing
+ ```bash
+mvn test
+
+      
