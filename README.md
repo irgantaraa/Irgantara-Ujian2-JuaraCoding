@@ -7,7 +7,8 @@ Aplikasi ATM sederhana ini dibuat menggunakan bahasa pemrograman Java. Aplikasi 
 
 ### Kelas `ATM`
 Kelas `ATM` memiliki atribut saldo dan beberapa metode utama:
-- **`double lihatSaldo()`**: Mengembalikan saldo saat ini.
+- **`Penulis
+Nama Anda - Pengembang utamadouble lihatSaldo()`**: Mengembalikan saldo saat ini.
 - **`void setorUang(double jumlah)`**: Menambah saldo dengan jumlah yang diberikan jika jumlah tersebut valid (lebih besar dari 0).
 - **`void tarikUang(double jumlah)`**: Mengurangi saldo dengan jumlah yang diberikan jika jumlah tersebut valid (lebih besar dari 0 dan tidak melebihi saldo saat ini).
 
@@ -37,5 +38,7 @@ Unit test untuk kelas `ATM` diimplementasikan dalam kelas `ATMTest` menggunakan 
 ### Menjalankan Unit Testing
  ```bash
 mvn test
+  ```
+
 
       
