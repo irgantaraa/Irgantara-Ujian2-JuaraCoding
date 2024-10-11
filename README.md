@@ -29,6 +29,8 @@ Unit test untuk kelas `ATM` diimplementasikan dalam kelas `ATMTest` menggunakan 
    ```bash
    git clone https://github.com/username/repo-name.git
 2. Masuk ke direktori proyek:
+   ```bash
    cd repo-name
 3. Bangun proyek menggunakan Maven:
+   ```bash
    mvn clean install
